@@ -1,0 +1,63 @@
+body { color: rgb(226, 110, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+a {font-family: Georgia, 'Times New Roman', Times, serif;
+color: blue;}
+
+li {font-weight: bold;
+    font-size: x-large;
+}
+
+
+p {font-size: xx-large;
+}
+
+
+h1{font-size: xx-large;
+}
+
+
+.common{
+    background-color: aliceblue;
+    border: 2px solid white;
+    position: absolute;
+
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 160px;
+
+}
+
+.leftmenu{
+    top: 174px;
+    left: 5px;
+    width: 100px;
+    bottom: -1900px;
+}
+
+.rightmenu{
+    top: 174px;
+    right: 5px;
+    width: 100px;
+    bottom: -1900px;
+}
+
+.mainbody{
+    top: 174px;
+    left: 114px;
+    right: 114px;
+    bottom: -1900px;
+}
+
+.footer{
+    bottom: -1934px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
